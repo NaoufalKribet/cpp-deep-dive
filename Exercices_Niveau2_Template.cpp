@@ -4,7 +4,7 @@
  *
  *  Objectif: Mettre en pratique les concepts de Programmation Orientée Objet,
  *            la gestion moderne des ressources et la programmation générique.
- *
+ *   Auteur : @Kribet Naoufal
  ******************************************************************************/
 
 #include <iostream>
@@ -315,4 +315,5 @@ int main() {
     // grosProblemeFinal();
 
     return 0;
+
 }
